@@ -1,2 +1,2 @@
 # MINADO
-Repositorio destinado a almacenar el Script que automatiza el proceso de poner una Máquina Ubuntu 20.04 LTS a minar SHIBA INU
+Script que permite la automacización del proceso de inicio de minado SHIBA INU en Ubuntu 20.04 LTS
